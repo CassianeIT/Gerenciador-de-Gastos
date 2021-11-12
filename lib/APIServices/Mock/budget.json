@@ -1,0 +1,83 @@
+
+[
+    {
+        "index" : 0,
+        "iconId" : 61703,
+        "category": "Casa",
+        "monthlyAvg": 0.0,
+        "newValue": 0.0
+    },
+    {
+        "index" : 1,
+        "iconId" : 62268,
+        "category": "Educação",
+        "monthlyAvg": 0.0,
+        "newValue": 0.0
+    },
+    {
+        "index" : 2,
+        "iconId" : 62149,
+        "category": "Eletrônicos",
+        "monthlyAvg": 0.0,
+        "newValue": 0.0
+    },
+    {
+        "index" : 3,
+        "iconId" : 61126,
+        "category": "Lazer",
+        "monthlyAvg": 0.0,
+        "newValue": 0.0
+    },
+    {
+        "index" : 4,
+        "iconId" : 61864,
+        "category": "Restaurante",
+        "monthlyAvg": 0.0,
+        "newValue": 0.0
+    },
+    {
+        "index" : 5,
+        "iconId" : 61190,
+        "category": "Serviços",
+        "monthlyAvg": 0.0,
+        "newValue": 0.0
+    },
+    {
+        "index" : 6,
+        "iconId" : 62335,
+        "category": "Supermercado",
+        "monthlyAvg": 0.0,
+        "newValue": 0.0
+    },
+    {
+        "index" : 7,
+        "iconId" : 61381,
+        "category": "Transporte",
+        "monthlyAvg": 0.0,
+        "newValue": 0.0
+    },
+    {
+        "index" : 8,
+        "iconId" : 62333,
+        "category": "Vestuário",
+        "monthlyAvg": 0.0,
+        "newValue": 0.0
+    },
+    {
+        "index" : 9,
+        "iconId" : 61022,
+        "category": "Viagem",
+        "monthlyAvg": 0.0,
+        "newValue": 0.0
+    },
+    {
+        "index" : 10,
+        "iconId" : 61917,
+        "category": "Outros",
+        "monthlyAvg": 0.0,
+        "newValue": 0.0
+    }
+
+]
+    
+    
